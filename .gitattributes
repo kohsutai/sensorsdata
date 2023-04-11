@@ -1,0 +1,1 @@
+bank_sinopac_session_data_transfer.zip filter=lfs diff=lfs merge=lfs -text
